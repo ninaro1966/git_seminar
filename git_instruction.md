@@ -96,4 +96,6 @@
     
     git branch -d branches
 
-## НОвый заголовок
+## Переход на другую ветку
+
+git branch <branchname>
